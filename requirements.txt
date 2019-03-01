@@ -1,0 +1,6 @@
+torch==1.0.0
+torchvision>=0.2.1
+opencv-contrib-python>=4.0.0
+scikit-learn==0.20.2
+tensorboardX>=1.6
+tqdm>=3.0
